@@ -7,7 +7,7 @@
 - 💬 Ask me about Competitive Programming or Android Developement
 
 ## **About Me :** 👦
-I am an enthusiastic Indian self-taught android developer and competitive programmer. I am a motivated Indian individual with a strong passion for android development and competitive programming, who has achieved self-taught proficiency in both areas.
+I am an enthusiastic and self-taught android developer and competitive programmer. I am a motivated individual with a strong passion for android development and competitive programming, who has achieved self-taught proficiency in both areas.
 ## **Tech Stack :**
 <!-- -->
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,figma,c,cpp,firebase,git,ai&theme=dark)](https://skillicons.dev)
