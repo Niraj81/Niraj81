@@ -14,7 +14,7 @@ I am an enthusiastic and self-taught android developer and competitive programme
 - Got all India rank under 100 in cp contest a few times (Codeforces, Leetcode)
 
 ### Android development :- 
-- Application in production on playstore with 1000+ downloads and 100+ 5 Star rating.
+- Application in production on playstore with 1000+ downloads and 100+ 5 Star rating. [Click here](https://play.google.com/store/apps/details?id=com.niraj.looter)
 - Can create smooth and beautiful apps with Jetpack Compose + Kotlin
 - Have worked with RoomDB, Dagger-Hilt, Coil, Kotlin Coroutines
 - Have practical knowledge of Advanced Animations with Motion Layout. [Click here](https://github.com/Niraj81/CreditCardView?tab=readme-ov-file#demo)
